@@ -2,6 +2,6 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Edited now
 Utiliza la flecha hacia la izquierda para volver!
 o commit message
